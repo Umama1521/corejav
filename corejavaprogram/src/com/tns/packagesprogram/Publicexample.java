@@ -2,9 +2,9 @@ package com.tns.packagesprogram;
 
 public class Publicexample {
 	
-	private int a=9;
+	public int a=9;
 	
-	protected char f='y';    //data members
+	public char f='y';    //data members
 
 	public static void main(String[] args) {
 		
